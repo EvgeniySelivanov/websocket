@@ -3,7 +3,7 @@ module.exports = {
     development: {
       hostName: 'localhost',
       port: 27017,
-      bdName: 'fm_chat'
+      dbName: 'fm_chat'
     },
   },
 };

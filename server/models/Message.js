@@ -12,7 +12,8 @@ const schemaMessage = new Schema({
   },
 },
   {
-    timeseries: true,
+
+    timestamps: true,
     versionKey: false,
   }
 );
